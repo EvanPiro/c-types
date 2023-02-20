@@ -1,12 +1,6 @@
 #include <sys/types.h>
 #include <stdio.h>
 
-struct {
-  int size;
-  char name[10];
-} type;
-
-
 /*
  * Running this will produce a table of the name of a type and the number of bytes
  * it needs in memory.
