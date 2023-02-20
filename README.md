@@ -1,0 +1,37 @@
+# Byte Sizes for types from `<sys/types.h`
+
+| type                      | size      |
+| ------------------------- | --------- |
+| blkcnt_t                  |    8      |
+| blksize_t                 |    8      |
+| clock_t                   |    8      |
+| dev_t                     |    8      |
+| fsblkcnt_t                |    8      |
+| fsfilcnt_t                |    8      |
+| gid_t                     |    4      |
+| id_t                      |    4      |
+| ino_t                     |    8      |
+| key_t                     |    4      |
+| mode_t                    |    4      |
+| nlink_t                   |    8      |
+| pid_t                     |    4      |
+| pthread_attr_t            |   56      |
+| pthread_barrier_t         |   32      |
+| pthread_barrierattr_t     |    4      |
+| pthread_cond_t            |   48      |
+| pthread_condattr_t        |    4      |
+| pthread_key_t             |    4      |
+| pthread_mutex_t           |   40      |
+| pthread_mutexattr_t       |    4      |
+| pthread_once_t            |    4      |
+| pthread_rwlock_t          |   56      |
+| pthread_rwlockattr_t      |    8      |
+| ssize_tpthread_spinlock_t |    4      |
+| pthread_t                 |    8      |
+| size_t                    |    8      |
+| ssize_t                   |    8      |
+| suseconds_t               |    8      |
+| time_t                    |    8      |
+| timer_t                   |    8      |
+| uid_t                     |     4     |
+| suseconds_t               |     8     |
