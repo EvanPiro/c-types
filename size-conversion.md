@@ -1,6 +1,6 @@
 # State Schematic
 
-| bits | bytes | possible states | utility    |
+| bits | bytes (2<sup>8 * bits</sup>) | possible states (2<sup>bits</sup>) | utility    |
 |------|-------|-----------------|------------|
 | 1    |       | 2               | existence  |
 | 2    |       | 4               | direction  |
