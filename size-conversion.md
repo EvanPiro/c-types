@@ -1,6 +1,6 @@
-# State Schematic
+# Bit Ranges of Being
 
-| bits | bytes (2<sup>8 * bits</sup>) | possible states (2<sup>bits</sup>) | utility    |
+| bits | bytes (2<sup>8 * bits</sup>) | possible states (2<sup>bits</sup>) | phenomena |
 |------|-------|-----------------|------------|
 | 1    |       | 2               | existence  |
 | 2    |       | 4               | direction  |
